@@ -1,6 +1,6 @@
 # OutOfMemoryError
 
-Tworzenie nowych obiektów w nieskończonej petli i dodawanie ich do listy powoduje wyczerpanie miejsca na stosie.
+Dodawanie napisów w nieskończonej petli do listy powoduje wyczerpanie miejsca na stosie i wystapienie OutOfMemoryError: Java heap space
 
 
 Uruchomienie :
